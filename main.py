@@ -22,6 +22,9 @@ def main():
     ### Automate Git System
     ###
     ###
+
+    # test1
+
     print(autogit.repo)
     devs.env = input('what env? ')
     devs.run_cli()
